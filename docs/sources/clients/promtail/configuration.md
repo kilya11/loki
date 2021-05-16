@@ -22,7 +22,7 @@ and how to scrape logs from files.
       - [template](#template)
       - [match](#match)
       - [timestamp](#timestamp)
-        - [output](#output)
+      - [output](#output)
       - [labels](#labels)
       - [metrics](#metrics)
         - [counter](#counter)
